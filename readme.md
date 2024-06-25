@@ -32,8 +32,8 @@ Selenium_Automation_Project/
 Clone this repository to your local machine using:
 
 ```sh
-git clone <repository-url>
-cd Selenium_Automation_Project
+git clone https://github.com/iqbalnur21/mini-case-python-automation
+cd mini-case-python-automation
 ```
 
 ### Step 2: Install Dependencies
