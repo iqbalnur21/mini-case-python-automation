@@ -1,0 +1,4 @@
+selenium
+webdriver_manager
+importlib_metadata
+importlib_resources
